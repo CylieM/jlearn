@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870349119339",
+    "project_id": "jlearn-25b34",
+    "storage_bucket": "jlearn-25b34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870349119339:android:9ca91d43a05d1d9c89f62e",
+        "android_client_info": {
+          "package_name": "com.example.jlearnn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApL4FVx3zDxY_QxpdPxu_qvzzdnQWC5iE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navHome"
+        android:icon="@drawable/home"
+        android:title="Home" />
+    <item
+        android:id="@+id/navLeaderboard"
+        android:icon="@drawable/leaderboard"
+        android:title="Leaderboard" />
+    <item
+        android:id="@+id/navKanashoot"
+        android:icon="@drawable/kanashoot"
+        android:title="KanaShoot" />
+    <item
+        android:id="@+id/navNihongorace"
+        android:icon="@drawable/nihongorace"
+        android:title="NihongoRace" />
+    <item
+        android:id="@+id/navProfile"
+        android:icon="@drawable/profile"
+        android:title="Profile" />
+</menu>
