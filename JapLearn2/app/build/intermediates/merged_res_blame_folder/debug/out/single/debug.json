@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "com.example.japlearn.app-merged_res-35:/xml_backup_rules.xml.flat",
+        "source": "com.example.japlearn.app-main-37:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.japlearn.app-merged_res-35:/layout-w1240dp_activity_user_login.xml.flat",
+        "source": "com.example.japlearn.app-main-37:/layout-w1240dp/activity_user_login.xml"
+    },
+    {
+        "merged": "com.example.japlearn.app-merged_res-35:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.japlearn.app-main-37:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.japlearn.app-merged_res-35:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.japlearn.app-main-37:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.japlearn.app-merged_res-35:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.japlearn.app-main-37:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.japlearn.app-merged_res-35:/drawable_check_removebg_preview.png.flat",
+        "source": "com.example.japlearn.app-main-37:/drawable/check_removebg_preview.png"
+    },
+    {
+        "merged": "com.example.japlearn.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.japlearn.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.japlearn.app-merged_res-35:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.japlearn.app-main-37:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.japlearn.app-merged_res-35:/drawable___1_1_removebg_preview.png.flat",
+        "source": "com.example.japlearn.app-main-37:/drawable/__1_1_removebg_preview.png"
+    },
+    {
+        "merged": "com.example.japlearn.app-merged_res-35:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.japlearn.app-main-37:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.japlearn.app-merged_res-35:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.japlearn.app-main-37:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.japlearn.app-merged_res-35:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.japlearn.app-main-37:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.japlearn.app-merged_res-35:/layout_activity_user_login.xml.flat",
+        "source": "com.example.japlearn.app-main-37:/layout/activity_user_login.xml"
+    },
+    {
+        "merged": "com.example.japlearn.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.japlearn.app-main-37:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.japlearn.app-merged_res-35:/drawable_screenshot_1710527692533_removebg_preview.png.flat",
+        "source": "com.example.japlearn.app-main-37:/drawable/screenshot_1710527692533_removebg_preview.png"
+    },
+    {
+        "merged": "com.example.japlearn.app-merged_res-35:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.japlearn.app-main-37:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.japlearn.app-merged_res-35:/layout-w936dp_activity_user_login.xml.flat",
+        "source": "com.example.japlearn.app-main-37:/layout-w936dp/activity_user_login.xml"
+    },
+    {
+        "merged": "com.example.japlearn.app-merged_res-35:/layout_activity_lessons_discussion.xml.flat",
+        "source": "com.example.japlearn.app-main-37:/layout/activity_lessons_discussion.xml"
+    },
+    {
+        "merged": "com.example.japlearn.app-merged_res-35:/drawable_speaker_or_volume_icon_free_vector_removebg_preview.png.flat",
+        "source": "com.example.japlearn.app-main-37:/drawable/speaker_or_volume_icon_free_vector_removebg_preview.png"
+    },
+    {
+        "merged": "com.example.japlearn.app-merged_res-35:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.japlearn.app-main-37:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.japlearn.app-merged_res-35:/drawable_rounded_border.xml.flat",
+        "source": "com.example.japlearn.app-main-37:/drawable/rounded_border.xml"
+    },
+    {
+        "merged": "com.example.japlearn.app-merged_res-35:/layout_activity_main.xml.flat",
+        "source": "com.example.japlearn.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.japlearn.app-merged_res-35:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.japlearn.app-main-37:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.japlearn.app-merged_res-35:/drawable_oip_removebg_preview.png.flat",
+        "source": "com.example.japlearn.app-main-37:/drawable/oip_removebg_preview.png"
+    },
+    {
+        "merged": "com.example.japlearn.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.japlearn.app-main-37:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.japlearn.app-merged_res-35:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.japlearn.app-main-37:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.japlearn.app-merged_res-35:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.japlearn.app-main-37:/mipmap-anydpi/ic_launcher_round.xml"
+    }
+]

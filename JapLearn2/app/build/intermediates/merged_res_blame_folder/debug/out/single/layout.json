@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.japlearn.app-mergeDebugResources-34:/layout/activity_user_login.xml",
+        "source": "com.example.japlearn.app-main-37:/layout/activity_user_login.xml"
+    },
+    {
+        "merged": "com.example.japlearn.app-mergeDebugResources-34:/layout/activity_main.xml",
+        "source": "com.example.japlearn.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.japlearn.app-mergeDebugResources-34:/layout/activity_lessons_discussion.xml",
+        "source": "com.example.japlearn.app-main-37:/layout/activity_lessons_discussion.xml"
+    }
+]

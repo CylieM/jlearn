@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.savedstate:savedstate:1.2.1@aar">
+    <CLASSES>
+      <root url="file://C:/Program Files/Java/jdk-17/caches/8.8-rc-1/transforms/c3eaad11875b5c1a4899c7f80eddbff0/transformed/savedstate-1.2.1/res" />
+      <root url="jar://C:/Program Files/Java/jdk-17/caches/8.8-rc-1/transforms/c3eaad11875b5c1a4899c7f80eddbff0/transformed/savedstate-1.2.1/jars/classes.jar!/" />
+      <root url="file://C:/Program Files/Java/jdk-17/caches/8.8-rc-1/transforms/c3eaad11875b5c1a4899c7f80eddbff0/transformed/savedstate-1.2.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/Program Files/Java/jdk-17/caches/modules-2/files-2.1/androidx.savedstate/savedstate/1.2.1/58d4c9fd35e826d3bce813974006451ee9ba4344/savedstate-1.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

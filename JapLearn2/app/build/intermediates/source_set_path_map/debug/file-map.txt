@@ -1,0 +1,38 @@
+com.example.japlearn.app-constraintlayout-2.1.4-0 C:\Program Files\Java\jdk-17\caches\8.8-rc-1\transforms\08020239f04a5913fad8e82624e80b0e\transformed\constraintlayout-2.1.4\res
+com.example.japlearn.app-annotation-experimental-1.3.0-1 C:\Program Files\Java\jdk-17\caches\8.8-rc-1\transforms\23c26069d2f649bc0d69bdaa480124ab\transformed\annotation-experimental-1.3.0\res
+com.example.japlearn.app-profileinstaller-1.3.0-2 C:\Program Files\Java\jdk-17\caches\8.8-rc-1\transforms\24fd22021fdf4004d6bc35a5b82d884c\transformed\profileinstaller-1.3.0\res
+com.example.japlearn.app-lifecycle-livedata-core-ktx-2.6.1-3 C:\Program Files\Java\jdk-17\caches\8.8-rc-1\transforms\26c51d7be43def14c1457ddb5ccdac4b\transformed\lifecycle-livedata-core-ktx-2.6.1\res
+com.example.japlearn.app-lifecycle-viewmodel-2.6.1-4 C:\Program Files\Java\jdk-17\caches\8.8-rc-1\transforms\2f89f9d5d34749784eb00d2fafb49139\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.japlearn.app-recyclerview-1.1.0-5 C:\Program Files\Java\jdk-17\caches\8.8-rc-1\transforms\46920781512218262bcddce19c5bb5db\transformed\recyclerview-1.1.0\res
+com.example.japlearn.app-emoji2-1.2.0-6 C:\Program Files\Java\jdk-17\caches\8.8-rc-1\transforms\4e40662ace5f55032f549b96277f561b\transformed\emoji2-1.2.0\res
+com.example.japlearn.app-lifecycle-viewmodel-ktx-2.6.1-7 C:\Program Files\Java\jdk-17\caches\8.8-rc-1\transforms\54ac9bd707ae3efa037c9617f69cce6b\transformed\lifecycle-viewmodel-ktx-2.6.1\res
+com.example.japlearn.app-fragment-1.3.6-8 C:\Program Files\Java\jdk-17\caches\8.8-rc-1\transforms\6cc5de699f93ac19e6dc021fda1d528c\transformed\fragment-1.3.6\res
+com.example.japlearn.app-emoji2-views-helper-1.2.0-9 C:\Program Files\Java\jdk-17\caches\8.8-rc-1\transforms\6f4e68ce6dc56e454d2818458c8ad380\transformed\emoji2-views-helper-1.2.0\res
+com.example.japlearn.app-lifecycle-process-2.6.1-10 C:\Program Files\Java\jdk-17\caches\8.8-rc-1\transforms\74df9e002cf69a61c30816978d467dd6\transformed\lifecycle-process-2.6.1\res
+com.example.japlearn.app-lifecycle-viewmodel-savedstate-2.6.1-11 C:\Program Files\Java\jdk-17\caches\8.8-rc-1\transforms\86546641e131a1ace171ede7dd3d0c3f\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.japlearn.app-lifecycle-livedata-ktx-2.6.1-12 C:\Program Files\Java\jdk-17\caches\8.8-rc-1\transforms\86791fcbeef0b1483f0ccd87ca3a7765\transformed\lifecycle-livedata-ktx-2.6.1\res
+com.example.japlearn.app-drawerlayout-1.1.1-13 C:\Program Files\Java\jdk-17\caches\8.8-rc-1\transforms\867e01a5a320b93a8287cefdd0e4aa28\transformed\drawerlayout-1.1.1\res
+com.example.japlearn.app-transition-1.2.0-14 C:\Program Files\Java\jdk-17\caches\8.8-rc-1\transforms\926f0c5ac51cb12aadf08f1d19cc7ae6\transformed\transition-1.2.0\res
+com.example.japlearn.app-core-1.9.0-15 C:\Program Files\Java\jdk-17\caches\8.8-rc-1\transforms\95b177f72ab21a0a951f8aa93bd2bc0f\transformed\core-1.9.0\res
+com.example.japlearn.app-viewpager2-1.0.0-16 C:\Program Files\Java\jdk-17\caches\8.8-rc-1\transforms\97f99683bf6b0570146121e50003e530\transformed\viewpager2-1.0.0\res
+com.example.japlearn.app-lifecycle-runtime-2.6.1-17 C:\Program Files\Java\jdk-17\caches\8.8-rc-1\transforms\a8af968a237a93351a434498daf412a5\transformed\lifecycle-runtime-2.6.1\res
+com.example.japlearn.app-appcompat-resources-1.6.1-18 C:\Program Files\Java\jdk-17\caches\8.8-rc-1\transforms\ac55a5df27956347372dc2a2f872c279\transformed\appcompat-resources-1.6.1\res
+com.example.japlearn.app-core-runtime-2.2.0-19 C:\Program Files\Java\jdk-17\caches\8.8-rc-1\transforms\ba67d5e678eb68abddb356ef08ff1558\transformed\core-runtime-2.2.0\res
+com.example.japlearn.app-savedstate-1.2.1-20 C:\Program Files\Java\jdk-17\caches\8.8-rc-1\transforms\c3eaad11875b5c1a4899c7f80eddbff0\transformed\savedstate-1.2.1\res
+com.example.japlearn.app-material-1.11.0-21 C:\Program Files\Java\jdk-17\caches\8.8-rc-1\transforms\c6eb453ba4fd7634d6a6889fce671862\transformed\material-1.11.0\res
+com.example.japlearn.app-coordinatorlayout-1.1.0-22 C:\Program Files\Java\jdk-17\caches\8.8-rc-1\transforms\c96585aedc1510cc833c5e6955c3e15a\transformed\coordinatorlayout-1.1.0\res
+com.example.japlearn.app-cardview-1.0.0-23 C:\Program Files\Java\jdk-17\caches\8.8-rc-1\transforms\ceaa3056d8fb75d3f43deba189b2fc7d\transformed\cardview-1.0.0\res
+com.example.japlearn.app-lifecycle-livedata-2.6.1-24 C:\Program Files\Java\jdk-17\caches\8.8-rc-1\transforms\cf42344796017a23d00b84f03df5b57b\transformed\lifecycle-livedata-2.6.1\res
+com.example.japlearn.app-lifecycle-livedata-core-2.6.1-25 C:\Program Files\Java\jdk-17\caches\8.8-rc-1\transforms\cfb3eff2340a1d1e85b8296d747d96de\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.japlearn.app-activity-1.8.0-26 C:\Program Files\Java\jdk-17\caches\8.8-rc-1\transforms\e82cfa137db943788c9aac94978a09eb\transformed\activity-1.8.0\res
+com.example.japlearn.app-core-ktx-1.9.0-27 C:\Program Files\Java\jdk-17\caches\8.8-rc-1\transforms\f1da34386b42872ff57b9143d40ad242\transformed\core-ktx-1.9.0\res
+com.example.japlearn.app-appcompat-1.6.1-28 C:\Program Files\Java\jdk-17\caches\8.8-rc-1\transforms\fbd40a9ec4304810ebf3b19f4e9e5386\transformed\appcompat-1.6.1\res
+com.example.japlearn.app-startup-runtime-1.1.1-29 C:\Program Files\Java\jdk-17\caches\8.8-rc-1\transforms\fbeede5b14d18ad1a99ac2e92c7285f3\transformed\startup-runtime-1.1.1\res
+com.example.japlearn.app-pngs-30 D:\Users\Mac\Desktop\Documents\new SUB\2023-2024\2nd Sem\Capstone\JLearn\jlearn\JapLearn2\app\build\generated\res\pngs\debug
+com.example.japlearn.app-resValues-31 D:\Users\Mac\Desktop\Documents\new SUB\2023-2024\2nd Sem\Capstone\JLearn\jlearn\JapLearn2\app\build\generated\res\resValues\debug
+com.example.japlearn.app-rs-32 D:\Users\Mac\Desktop\Documents\new SUB\2023-2024\2nd Sem\Capstone\JLearn\jlearn\JapLearn2\app\build\generated\res\rs\debug
+com.example.japlearn.app-packageDebugResources-33 D:\Users\Mac\Desktop\Documents\new SUB\2023-2024\2nd Sem\Capstone\JLearn\jlearn\JapLearn2\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.japlearn.app-packageDebugResources-34 D:\Users\Mac\Desktop\Documents\new SUB\2023-2024\2nd Sem\Capstone\JLearn\jlearn\JapLearn2\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.japlearn.app-merged_res-35 D:\Users\Mac\Desktop\Documents\new SUB\2023-2024\2nd Sem\Capstone\JLearn\jlearn\JapLearn2\app\build\intermediates\merged_res\debug
+com.example.japlearn.app-debug-36 D:\Users\Mac\Desktop\Documents\new SUB\2023-2024\2nd Sem\Capstone\JLearn\jlearn\JapLearn2\app\src\debug\res
+com.example.japlearn.app-main-37 D:\Users\Mac\Desktop\Documents\new SUB\2023-2024\2nd Sem\Capstone\JLearn\jlearn\JapLearn2\app\src\main\res
