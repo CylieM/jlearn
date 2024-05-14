@@ -1,5 +1,6 @@
 package com.example.jlearnn;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
@@ -10,7 +11,7 @@ import android.widget.Toast;
 
 public class ForgotPasswordActivity extends AppCompatActivity {
 
-    public EditText etEmail;
+    public EditText editEmail;
      Button btnResetPassword;
 
     @Override
@@ -18,13 +19,13 @@ public class ForgotPasswordActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_forgot_password);
 
-        etEmail = findViewById(R.id.etEmail);
+        editEmail = findViewById(R.id.editEmail);
         btnResetPassword = findViewById(R.id.btn_reset_password);
 
         btnResetPassword.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String email = etEmail.getText().toString();
+                String email = editEmail.getText().toString();
 
                 if (email.isEmpty()) {
                     Toast.makeText(ForgotPasswordActivity.this, "Please enter your email", Toast.LENGTH_SHORT).show();

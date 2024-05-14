@@ -10,8 +10,8 @@ import android.widget.Toast;
 
 public class ForgotPasswordBActivity extends AppCompatActivity {
 
-    private EditText editPassword;
-    private Button btnResetPassword;
+    public EditText editPassword;
+     Button btnResetPassword;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
