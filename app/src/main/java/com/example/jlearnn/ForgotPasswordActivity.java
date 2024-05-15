@@ -37,13 +37,13 @@ public class ForgotPasswordActivity extends AppCompatActivity {
         authStateListener = new FirebaseAuth.AuthStateListener() {
             @Override
             public void onAuthStateChanged(@NonNull FirebaseAuth firebaseAuth) {
-                FirebaseUser password = firebaseAuth.getCurrentUser();
-                if (password != null) {
-                    Toast.makeText(ForgotPasswordActivity.this, "Password is incorrect ", Toast.LENGTH_SHORT).show();
+                FirebaseUser email = firebaseAuth.getCurrentUser();
+                if (email != null) {
+                    Toast.makeText(ForgotPasswordActivity.this, "Email is incorrect", Toast.LENGTH_SHORT).show();
                     Intent I = new Intent(ForgotPasswordActivity.this, UserActivity.class);
                     startActivity(I);
                 } else {
-                    Toast.makeText(ForgotPasswordActivity.this, "Enter your current password to continue", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(ForgotPasswordActivity.this, "Enter your current email to continue", Toast.LENGTH_SHORT).show();
                 }
             }
         };
