@@ -68,6 +68,8 @@ public class ForgotPasswordActivity extends AppCompatActivity {
 
                 // Call API or perform password reset logic here
                 Toast.makeText(ForgotPasswordActivity.this, "Password reset link sent to your email", Toast.LENGTH_SHORT).show();
+
+
             }
         });
     }
