@@ -39,7 +39,7 @@ public class ForgotPasswordBActivity extends AppCompatActivity {
                 }
 
                 // Call API or perform password reset logic here
-                Toast.makeText(ForgotPasswordBActivity.this, "Password re - enter your new password.", Toast.LENGTH_SHORT).show();
+                Toast.makeText(ForgotPasswordBActivity.this, "Please re - enter your new password.", Toast.LENGTH_SHORT).show();
             }
         });
     }
