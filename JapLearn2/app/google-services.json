@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "630255491981",
+    "project_id": "japlearn-5b25b",
+    "storage_bucket": "japlearn-5b25b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630255491981:android:ddeff694f1c0d52af5bbc4",
+        "android_client_info": {
+          "package_name": "com.example.japlearn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaqsGpjLyr_Ztj4fg7DGbjqnSJaN97RwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

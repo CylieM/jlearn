@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.appcompat:appcompat:1.6.1@aar">
     <ANNOTATIONS>
-      <root url="jar://C:/Program Files/Java/jdk-17/caches/8.8-rc-1/transforms/fbd40a9ec4304810ebf3b19f4e9e5386/transformed/appcompat-1.6.1/annotations.zip!/" />
+      <root url="jar://C:/Program Files/Java/jdk-17/caches/8.8-rc-1/transforms/d0321feec9007f5f3c3175662fa7958d/transformed/appcompat-1.6.1/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="file://C:/Program Files/Java/jdk-17/caches/8.8-rc-1/transforms/fbd40a9ec4304810ebf3b19f4e9e5386/transformed/appcompat-1.6.1/res" />
-      <root url="jar://C:/Program Files/Java/jdk-17/caches/8.8-rc-1/transforms/fbd40a9ec4304810ebf3b19f4e9e5386/transformed/appcompat-1.6.1/jars/classes.jar!/" />
-      <root url="file://C:/Program Files/Java/jdk-17/caches/8.8-rc-1/transforms/fbd40a9ec4304810ebf3b19f4e9e5386/transformed/appcompat-1.6.1/AndroidManifest.xml" />
+      <root url="jar://C:/Program Files/Java/jdk-17/caches/8.8-rc-1/transforms/d0321feec9007f5f3c3175662fa7958d/transformed/appcompat-1.6.1/jars/classes.jar!/" />
+      <root url="file://C:/Program Files/Java/jdk-17/caches/8.8-rc-1/transforms/d0321feec9007f5f3c3175662fa7958d/transformed/appcompat-1.6.1/res" />
+      <root url="file://C:/Program Files/Java/jdk-17/caches/8.8-rc-1/transforms/d0321feec9007f5f3c3175662fa7958d/transformed/appcompat-1.6.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

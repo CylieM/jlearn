@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-components:18.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://C:/Program Files/Java/jdk-17/caches/8.8-rc-1/transforms/403e89551b2f0e20ec4396174ad4801c/transformed/firebase-components-18.0.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://C:/Program Files/Java/jdk-17/caches/8.8-rc-1/transforms/403e89551b2f0e20ec4396174ad4801c/transformed/firebase-components-18.0.0/jars/classes.jar!/" />
+      <root url="file://C:/Program Files/Java/jdk-17/caches/8.8-rc-1/transforms/403e89551b2f0e20ec4396174ad4801c/transformed/firebase-components-18.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/Program Files/Java/jdk-17/caches/modules-2/files-2.1/com.google.firebase/firebase-components/18.0.0/578f7e7872fb0f32074ff3fd4946a068a05ab8fb/firebase-components-18.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.vectordrawable:vectordrawable-animated:1.1.0@aar">
     <CLASSES>
-      <root url="jar://C:/Program Files/Java/jdk-17/caches/8.8-rc-1/transforms/41e8f28dee3c6abb2503a1712f400c5b/transformed/vectordrawable-animated-1.1.0/jars/classes.jar!/" />
-      <root url="file://C:/Program Files/Java/jdk-17/caches/8.8-rc-1/transforms/41e8f28dee3c6abb2503a1712f400c5b/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml" />
+      <root url="file://C:/Program Files/Java/jdk-17/caches/8.8-rc-1/transforms/4be19d25e3eb3cf63b1f0a01ca78325f/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml" />
+      <root url="jar://C:/Program Files/Java/jdk-17/caches/8.8-rc-1/transforms/4be19d25e3eb3cf63b1f0a01ca78325f/transformed/vectordrawable-animated-1.1.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.japlearn.app-mergeDebugResources-33:/values-small-v4/values-small-v4.xml",
+            "outputFile": "com.example.japlearn.app-mergeDebugResources-40:/values-small-v4/values-small-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Program Files\\Java\\jdk-17\\caches\\8.8-rc-1\\transforms\\c6eb453ba4fd7634d6a6889fce671862\\transformed\\material-1.11.0\\res\\values-small-v4\\values-small-v4.xml",
+                    "source": "C:\\Program Files\\Java\\jdk-17\\caches\\8.8-rc-1\\transforms\\b29c1a347bfcd8611bc6a8928dbab796\\transformed\\material-1.11.0\\res\\values-small-v4\\values-small-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

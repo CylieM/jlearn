@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-installations-interop:17.1.1@aar">
+    <CLASSES>
+      <root url="jar://C:/Program Files/Java/jdk-17/caches/8.8-rc-1/transforms/8977c8fbb2068625f77fdb0362524195/transformed/firebase-installations-interop-17.1.1/jars/classes.jar!/" />
+      <root url="file://C:/Program Files/Java/jdk-17/caches/8.8-rc-1/transforms/8977c8fbb2068625f77fdb0362524195/transformed/firebase-installations-interop-17.1.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/Program Files/Java/jdk-17/caches/modules-2/files-2.1/com.google.firebase/firebase-installations-interop/17.1.1/2ecad397e77c31bd73c03c866dea1c88831dfd90/firebase-installations-interop-17.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.transition:transition:1.2.0@aar">
     <ANNOTATIONS>
-      <root url="jar://C:/Program Files/Java/jdk-17/caches/8.8-rc-1/transforms/926f0c5ac51cb12aadf08f1d19cc7ae6/transformed/transition-1.2.0/annotations.zip!/" />
+      <root url="jar://C:/Program Files/Java/jdk-17/caches/8.8-rc-1/transforms/5fe01b8d8d4ebc59e6dbcb11f6388e71/transformed/transition-1.2.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="file://C:/Program Files/Java/jdk-17/caches/8.8-rc-1/transforms/926f0c5ac51cb12aadf08f1d19cc7ae6/transformed/transition-1.2.0/AndroidManifest.xml" />
-      <root url="jar://C:/Program Files/Java/jdk-17/caches/8.8-rc-1/transforms/926f0c5ac51cb12aadf08f1d19cc7ae6/transformed/transition-1.2.0/jars/classes.jar!/" />
-      <root url="file://C:/Program Files/Java/jdk-17/caches/8.8-rc-1/transforms/926f0c5ac51cb12aadf08f1d19cc7ae6/transformed/transition-1.2.0/res" />
+      <root url="jar://C:/Program Files/Java/jdk-17/caches/8.8-rc-1/transforms/5fe01b8d8d4ebc59e6dbcb11f6388e71/transformed/transition-1.2.0/jars/classes.jar!/" />
+      <root url="file://C:/Program Files/Java/jdk-17/caches/8.8-rc-1/transforms/5fe01b8d8d4ebc59e6dbcb11f6388e71/transformed/transition-1.2.0/res" />
+      <root url="file://C:/Program Files/Java/jdk-17/caches/8.8-rc-1/transforms/5fe01b8d8d4ebc59e6dbcb11f6388e71/transformed/transition-1.2.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

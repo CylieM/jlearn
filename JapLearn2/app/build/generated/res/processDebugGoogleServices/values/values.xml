@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">630255491981</string>
+    <string name="google_api_key" translatable="false">AIzaSyBaqsGpjLyr_Ztj4fg7DGbjqnSJaN97RwU</string>
+    <string name="google_app_id" translatable="false">1:630255491981:android:ddeff694f1c0d52af5bbc4</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBaqsGpjLyr_Ztj4fg7DGbjqnSJaN97RwU</string>
+    <string name="google_storage_bucket" translatable="false">japlearn-5b25b.appspot.com</string>
+    <string name="project_id" translatable="false">japlearn-5b25b</string>
+</resources>
