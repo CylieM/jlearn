@@ -1430,6 +1430,7 @@ color error_color_material_dark
 color error_color_material_light
 color foreground_material_dark
 color foreground_material_light
+color green
 color highlighted_text_material_dark
 color highlighted_text_material_light
 color m3_appbar_overlay_color
@@ -2093,6 +2094,7 @@ color primary_text_default_material_dark
 color primary_text_default_material_light
 color primary_text_disabled_material_dark
 color primary_text_disabled_material_light
+color red
 color ripple_material_dark
 color ripple_material_light
 color secondary_text_default_material_dark
@@ -3228,8 +3230,12 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id btnLesson
 id btnNext
+id btnNextVocab
 id btnPrev
+id btnPrevVocab
+id btnVocab
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -3632,8 +3638,11 @@ id tvBtnExample
 id tvBtnName
 id tvDesc
 id tvFront
+id tvFrontVocab
 id tvPronunciation
 id tvRomaji
+id txtUserInput
+id txtUserInputVocab
 id unchecked
 id uniform
 id unlabeled
@@ -3779,6 +3788,7 @@ layout activity_lesson431
 layout activity_lessons_discussion
 layout activity_main
 layout activity_user_login
+layout activity_vocab
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog

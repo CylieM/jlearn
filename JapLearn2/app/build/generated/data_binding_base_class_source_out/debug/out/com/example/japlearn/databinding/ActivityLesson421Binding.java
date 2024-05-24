@@ -29,9 +29,6 @@ public final class ActivityLesson421Binding implements ViewBinding {
   public final ImageButton btnPrev;
 
   @NonNull
-  public final EditText editTextTextPersonName;
-
-  @NonNull
   public final ImageButton imageButton17;
 
   @NonNull
@@ -64,17 +61,19 @@ public final class ActivityLesson421Binding implements ViewBinding {
   @NonNull
   public final TextView tvFront;
 
+  @NonNull
+  public final EditText txtUserInput;
+
   private ActivityLesson421Binding(@NonNull ConstraintLayout rootView, @NonNull ImageButton btnNext,
-      @NonNull ImageButton btnPrev, @NonNull EditText editTextTextPersonName,
-      @NonNull ImageButton imageButton17, @NonNull ImageButton imageButton18,
-      @NonNull ImageButton imageButton19, @NonNull ImageButton imageButton3,
-      @NonNull ImageButton imageButton4, @NonNull ImageButton imageButton5,
-      @NonNull ImageButton imageButton6, @NonNull ImageButton imageButton8,
-      @NonNull ImageView imageView11, @NonNull TextView tvBtnExample, @NonNull TextView tvFront) {
+      @NonNull ImageButton btnPrev, @NonNull ImageButton imageButton17,
+      @NonNull ImageButton imageButton18, @NonNull ImageButton imageButton19,
+      @NonNull ImageButton imageButton3, @NonNull ImageButton imageButton4,
+      @NonNull ImageButton imageButton5, @NonNull ImageButton imageButton6,
+      @NonNull ImageButton imageButton8, @NonNull ImageView imageView11,
+      @NonNull TextView tvBtnExample, @NonNull TextView tvFront, @NonNull EditText txtUserInput) {
     this.rootView = rootView;
     this.btnNext = btnNext;
     this.btnPrev = btnPrev;
-    this.editTextTextPersonName = editTextTextPersonName;
     this.imageButton17 = imageButton17;
     this.imageButton18 = imageButton18;
     this.imageButton19 = imageButton19;
@@ -86,6 +85,7 @@ public final class ActivityLesson421Binding implements ViewBinding {
     this.imageView11 = imageView11;
     this.tvBtnExample = tvBtnExample;
     this.tvFront = tvFront;
+    this.txtUserInput = txtUserInput;
   }
 
   @Override
@@ -124,12 +124,6 @@ public final class ActivityLesson421Binding implements ViewBinding {
       id = R.id.btnPrev;
       ImageButton btnPrev = ViewBindings.findChildViewById(rootView, id);
       if (btnPrev == null) {
-        break missingId;
-      }
-
-      id = R.id.editTextTextPersonName;
-      EditText editTextTextPersonName = ViewBindings.findChildViewById(rootView, id);
-      if (editTextTextPersonName == null) {
         break missingId;
       }
 
@@ -199,10 +193,15 @@ public final class ActivityLesson421Binding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.txtUserInput;
+      EditText txtUserInput = ViewBindings.findChildViewById(rootView, id);
+      if (txtUserInput == null) {
+        break missingId;
+      }
+
       return new ActivityLesson421Binding((ConstraintLayout) rootView, btnNext, btnPrev,
-          editTextTextPersonName, imageButton17, imageButton18, imageButton19, imageButton3,
-          imageButton4, imageButton5, imageButton6, imageButton8, imageView11, tvBtnExample,
-          tvFront);
+          imageButton17, imageButton18, imageButton19, imageButton3, imageButton4, imageButton5,
+          imageButton6, imageButton8, imageView11, tvBtnExample, tvFront, txtUserInput);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

@@ -48,6 +48,10 @@
         "source": "C:\\Program Files\\Java\\jdk-17\\daemon\\8.8-rc-1\\com.example.japlearn.app-main-44:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "com.example.japlearn.app-merged_res-42:/layout_activity_vocab.xml.flat",
+        "source": "com.example.japlearn.app-main-44:/layout/activity_vocab.xml"
+    },
+    {
         "merged": "C:\\Program Files\\Java\\jdk-17\\daemon\\8.8-rc-1\\com.example.japlearn.app-merged_res-42:\\mipmap-hdpi_ic_launcher.webp.flat",
         "source": "C:\\Program Files\\Java\\jdk-17\\daemon\\8.8-rc-1\\com.example.japlearn.app-main-44:\\mipmap-hdpi\\ic_launcher.webp"
     },
@@ -68,8 +72,8 @@
         "source": "C:\\Program Files\\Java\\jdk-17\\daemon\\8.8-rc-1\\com.example.japlearn.app-main-44:\\drawable\\__1_1_removebg_previews.png"
     },
     {
-        "merged": "com.example.japlearn.app-merged_res-42:/layout_activity_lessons_discussion.xml.flat",
-        "source": "com.example.japlearn.app-main-44:/layout/activity_lessons_discussion.xml"
+        "merged": "C:\\Program Files\\Java\\jdk-17\\daemon\\8.8-rc-1\\com.example.japlearn.app-merged_res-42:\\layout_activity_vocab.xml.flat",
+        "source": "C:\\Program Files\\Java\\jdk-17\\daemon\\8.8-rc-1\\com.example.japlearn.app-main-44:\\layout\\activity_vocab.xml"
     },
     {
         "merged": "C:\\Program Files\\Java\\jdk-17\\daemon\\8.8-rc-1\\com.example.japlearn.app-merged_res-42:\\drawable___1_1___copy_removebg_preview.png.flat",

@@ -38,8 +38,17 @@
         android:testOnly="true"
         android:theme="@style/Theme.JapLearn" >
         <activity
+            android:name="com.example.japlearn.Vocab"
+            android:exported="true" />
+        <activity
             android:name="com.example.japlearn.Lesson431"
             android:exported="false" />
+        <activity
+            android:name="com.example.japlearn.LessonDiscussionActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.japlearn.Lesson421"
+            android:exported="true" />
         <activity
             android:name="com.example.japlearn.ui.login.UserLogin"
             android:exported="false"

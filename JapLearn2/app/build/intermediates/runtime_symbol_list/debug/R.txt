@@ -1429,6 +1429,7 @@ int color error_color_material_dark 0x7f050063
 int color error_color_material_light 0x7f050064
 int color foreground_material_dark 0x7f050065
 int color foreground_material_light 0x7f050066
+int color green 0x7f05030d
 int color highlighted_text_material_dark 0x7f050067
 int color highlighted_text_material_light 0x7f050068
 int color m3_appbar_overlay_color 0x7f050069
@@ -2092,6 +2093,7 @@ int color primary_text_default_material_dark 0x7f0502fa
 int color primary_text_default_material_light 0x7f0502fb
 int color primary_text_disabled_material_dark 0x7f0502fc
 int color primary_text_disabled_material_light 0x7f0502fd
+int color red 0x7f05030e
 int color ripple_material_dark 0x7f0502fe
 int color ripple_material_light 0x7f0502ff
 int color secondary_text_default_material_dark 0x7f050300
@@ -3227,8 +3229,12 @@ int id bounce 0x7f080060
 int id bounceBoth 0x7f080061
 int id bounceEnd 0x7f080062
 int id bounceStart 0x7f080063
+int id btnLesson 0x7f080218
 int id btnNext 0x7f080064
+int id btnNextVocab 0x7f08021b
 int id btnPrev 0x7f080065
+int id btnPrevVocab 0x7f08021c
+int id btnVocab 0x7f080219
 int id buttonPanel 0x7f080066
 int id cache_measures 0x7f080067
 int id callMeasure 0x7f080068
@@ -3631,8 +3637,11 @@ int id tvBtnExample 0x7f0801f5
 int id tvBtnName 0x7f0801f6
 int id tvDesc 0x7f0801f7
 int id tvFront 0x7f0801f8
+int id tvFrontVocab 0x7f08021a
 int id tvPronunciation 0x7f080213
 int id tvRomaji 0x7f080215
+int id txtUserInput 0x7f080217
+int id txtUserInputVocab 0x7f08021d
 int id unchecked 0x7f0801fa
 int id uniform 0x7f0801fb
 int id unlabeled 0x7f0801fc
@@ -3778,6 +3787,7 @@ int layout activity_lesson431 0x7f0b001d
 int layout activity_lessons_discussion 0x7f0b001e
 int layout activity_main 0x7f0b001f
 int layout activity_user_login 0x7f0b0020
+int layout activity_vocab 0x7f0b006e
 int layout custom_dialog 0x7f0b0021
 int layout design_bottom_navigation_item 0x7f0b0022
 int layout design_bottom_sheet_dialog 0x7f0b0023
