@@ -12,6 +12,10 @@
         "source": "C:\\Program Files\\Java\\jdk-17\\daemon\\8.8-rc-1\\com.example.japlearn.app-main-44:\\layout\\activity_lesson431.xml"
     },
     {
+        "merged": "com.example.japlearn.app-mergeDebugResources-41:/layout/activity_test_yourself.xml",
+        "source": "com.example.japlearn.app-main-44:/layout/activity_test_yourself.xml"
+    },
+    {
         "merged": "C:\\Program Files\\Java\\jdk-17\\daemon\\8.8-rc-1\\com.example.japlearn.app-mergeDebugResources-41:\\layout\\activity_user_login.xml",
         "source": "C:\\Program Files\\Java\\jdk-17\\daemon\\8.8-rc-1\\com.example.japlearn.app-main-44:\\layout\\activity_user_login.xml"
     },
@@ -20,11 +24,11 @@
         "source": "C:\\Program Files\\Java\\jdk-17\\daemon\\8.8-rc-1\\com.example.japlearn.app-main-44:\\layout\\activity_vocab.xml"
     },
     {
-        "merged": "C:\\Program Files\\Java\\jdk-17\\daemon\\8.8-rc-1\\com.example.japlearn.app-mergeDebugResources-41:\\layout\\activity_lesson421.xml",
-        "source": "C:\\Program Files\\Java\\jdk-17\\daemon\\8.8-rc-1\\com.example.japlearn.app-main-44:\\layout\\activity_lesson421.xml"
+        "merged": "C:\\Program Files\\Java\\jdk-17\\daemon\\8.8-rc-1\\com.example.japlearn.app-mergeDebugResources-41:\\layout\\activity_test_yourself.xml",
+        "source": "C:\\Program Files\\Java\\jdk-17\\daemon\\8.8-rc-1\\com.example.japlearn.app-main-44:\\layout\\activity_test_yourself.xml"
     },
     {
-        "merged": "com.example.japlearn.app-mergeDebugResources-41:/layout/activity_vocab.xml",
-        "source": "com.example.japlearn.app-main-44:/layout/activity_vocab.xml"
+        "merged": "C:\\Program Files\\Java\\jdk-17\\daemon\\8.8-rc-1\\com.example.japlearn.app-mergeDebugResources-41:\\layout\\activity_lesson421.xml",
+        "source": "C:\\Program Files\\Java\\jdk-17\\daemon\\8.8-rc-1\\com.example.japlearn.app-main-44:\\layout\\activity_lesson421.xml"
     }
 ]

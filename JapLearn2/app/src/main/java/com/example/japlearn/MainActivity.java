@@ -10,7 +10,7 @@ import androidx.appcompat.app.AppCompatActivity;
 public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = "MainActivity";
-    private Button btnLesson, btnVocab;
+    private Button btnLesson, btnVocab, btnTest;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
         // Initialize buttons
         btnLesson = findViewById(R.id.btnLesson);
         btnVocab = findViewById(R.id.btnVocab);
+        btnTest = findViewById(R.id.btnTest);
 
         // Set click listeners for buttons
         btnLesson.setOnClickListener(new View.OnClickListener() {
@@ -35,5 +36,14 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(new Intent(MainActivity.this, Vocab.class));
             }
         });
+
+
+        btnTest.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(MainActivity.this, TestYourself.class));
+            }
+        });
+
     }
 }

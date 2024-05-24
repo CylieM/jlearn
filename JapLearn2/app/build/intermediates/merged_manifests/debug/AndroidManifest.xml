@@ -38,6 +38,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.JapLearn" >
         <activity
+            android:name="com.example.japlearn.TestYourself"
+            android:exported="false" />
+        <activity
             android:name="com.example.japlearn.Vocab"
             android:exported="true" />
         <activity
